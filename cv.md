@@ -1,6 +1,6 @@
 # Elena Pakhmutova
 
-![myfoto](img\my-avatar.jpg)
+![myfoto](assets\img\my-avatar.jpg)
 
 ## Contacts:
 
