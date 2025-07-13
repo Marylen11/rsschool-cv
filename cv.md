@@ -38,3 +38,5 @@ function squareSum(numbers){
 ## My projects
 
 - [CV](https://github.com/Marylen11/rsschool-cv.git)
+
+[def]: img\my-avatar.jpg
