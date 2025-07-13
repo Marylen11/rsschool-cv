@@ -5,8 +5,24 @@ header {
     border: 1px solid red;
 }
 
+.nav {
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  padding: 0 20px;
+  line-height: 50px;
+}
+
 body {
     background-color: rgb(200, 164, 233);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 main {
@@ -21,4 +37,13 @@ footer {
 
 * {
   box-sizing: border-box;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+html {
+  scroll-behavior: smooth;
 }
