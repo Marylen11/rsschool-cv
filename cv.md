@@ -1,6 +1,6 @@
 # Elena Pakhmutova
 
-![myfoto](img\my-avatar.jpg)
+![myfoto](assets\img\my-avatar.jpg)
 
 ## Contacts:
 
@@ -38,5 +38,3 @@ function squareSum(numbers){
 ## My projects
 
 - [CV](https://github.com/Marylen11/rsschool-cv.git)
-
-[def]: img\my-avatar.jpg
